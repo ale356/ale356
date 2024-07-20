@@ -2,36 +2,34 @@
 
 ## 🚀 About Me
 
-I am an **Innovative Front-End Developer** with a passion for creating seamless user experiences and a keen eye for detail.
+I am a **Full-Stack Developer** with a strong focus on crafting seamless, end-to-end solutions that drive impactful user experiences. With a solid foundation in both front-end and back-end technologies, I bring a holistic approach to development that ensures cohesive and efficient applications.
 
 ### 🌟 My Journey
 - 🎓 **Education**: Högskoleexamen in Datavetenskap from Linnéuniversitetet.
-- 💼 **Experience**: 
+- 💼 **Experience**:
   - **Technical Project Lead** at Linnéuniversitetet (Aug 2022 - Jun 2024).
-  - Developed single page applications and progressive web applications using MongoDB, Express.js, Vanilla JavaScript, and Node.js.
-  - Deployed front-end on Netlify and back-end on Render.
-  - Implemented JSON Web Token (JWT) for secure authentication, ensuring that only authorized users had access to the system.
-  - Led projects through an iterative development process with regular client meetings, encompassing design, development, testing, and adjustments based on client feedback.
+    - Directed projects through iterative development cycles with regular client interactions, encompassing design, implementation, testing, and feedback integration.
+    - Led development of single-page and progressive web applications.
+    - Orchestrated deployment processes on Netlify and Render for a seamless integration of front-end and back-end services.
 
-### 🔧 My Current Role
-As a front-end developer, I am currently focused on creating intuitive and responsive user interfaces. Here are some of my recent projects:
+### 🔧 My Recent Projects
+Here are some highlights of my recent full-stack projects:
 
 - **Booking System for Small Businesses** [GitHub Repo](https://github.com/ale356/booking-front-end-application)
-  - Developed a user-friendly booking system using the MERN stack.
-  - Implemented an admin dashboard for easy configuration and management of businesses.
-  - Built a responsive e-commerce platform for booking services across various industries.
-  - Used JWT for secure authentication and protection of user data.
-  - Conducted functional and automated testing for efficient performance across different devices and browsers.
+  - Developed a comprehensive booking system utilizing the MERN stack.
+  - Engineered an admin dashboard for streamlined business management.
+  - Applied JWT for secure user authentication and data protection.
+  - Conducted extensive functional and automated testing to ensure optimal performance and cross-browser compatibility.
 
 - **Progressive Timer Web Application** [GitHub Repo](https://github.com/ale356/movement-minder)
-  - Developed a progressive web application to reduce the effects of prolonged sitting.
-  - Utilized MongoDB, Express.js, Vanilla JavaScript, and Node.js.
-  - Implemented JWT for authentication and AtlasDB for data storage.
-  - Applied design science method and iterative development.
-  - Conducted functional testing for optimal performance across different devices.
+  - Created a progressive web application designed to mitigate the effects of prolonged sitting.
+  - Utilized MongoDB, Express.js, Vanilla JavaScript, and Node.js for a full-stack solution.
+  - Implemented JWT for authentication and AtlasDB for reliable data storage.
+  - Employed design science methods and iterative development practices.
+  - Performed functional testing to ensure high performance across various devices.
 
 ### 🌱 Looking Ahead
-I am driven by a desire to continue evolving as a front-end developer, taking on challenging projects that push the boundaries of web development. My goal is to leverage my technical skills and project management experience to contribute to innovative solutions that enhance user engagement and satisfaction. I am particularly interested in opportunities that allow me to work with cutting-edge technologies and collaborative teams dedicated to continuous learning and improvement.
+I am excited to continue my journey as a full-stack developer, tackling complex challenges and contributing to innovative projects. My aim is to leverage my comprehensive technical skills and project management experience to deliver high-impact solutions that enhance user satisfaction and engagement. I am particularly eager to explore opportunities that involve cutting-edge technologies and collaborative teams committed to continuous improvement.
 
 ### 🛠 Skills
 
