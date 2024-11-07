@@ -33,8 +33,8 @@ I am excited to continue my journey as a full-stack developer, tackling complex 
 
 ### 🛠 Skills
 
-- **Languages**: JavaScript, HTML, CSS, Java, Python, SQL, Bash
-- **Frameworks and Libraries**: React.js, Node.js, Express.js, Material UI, Tailwind CSS, Jest, Mocha
+- **Languages**: JavaScript, HTML, CSS, Java, Python, SQL, Bash, C#
+- **Frameworks and Libraries**: .NET, React.js, Angular, Node.js, Express.js, Material UI, Tailwind CSS, Jest, Mocha
 - **Tools**: Git, NPM, Linux, Docker, Gradle, JWT, ESLint, Vite, CI/CD
 
 ### 📫 Connect with Me
