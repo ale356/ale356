@@ -1,6 +1,4 @@
-# Alejandro Lindström Mamani
-
-## Full-Stack Developer | AI Integration | Backend Systems
+# Full-Stack Developer | AI Integration | Backend Systems
 
 I build production systems that handle real traffic — REST APIs serving thousands of daily requests, database schemas managing millions of records, and AI-powered platforms with sub-200ms response times.
 
